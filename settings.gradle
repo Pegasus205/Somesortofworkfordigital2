@@ -1,0 +1,2 @@
+rootProject.name = "Somesort of work for digital"
+include ':app'
